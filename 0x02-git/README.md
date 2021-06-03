@@ -1,1 +1,1 @@
-*This file is mandatory in all ALX school project*
+*Hello i updated my README.md file in ALX school project here*
